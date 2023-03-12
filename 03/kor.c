@@ -2,8 +2,6 @@
 #define _USE_MATH_DEFINES
 #include <math.h>
 
-
-
 int get_int() {
     int szam;
     do
